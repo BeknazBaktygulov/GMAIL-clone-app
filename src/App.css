@@ -1,0 +1,13 @@
+.app {
+    height: 100vh;
+}
+
+
+.app__body {
+    display: flex;
+    height: 100vh;
+}
+
+/* 
+Aligned App.css and EmailRow.js to fit the window 
+*/
